@@ -1,6 +1,6 @@
 httpkids
 --
-Web framework based on netty for kids, java10 required!
+基于Netty自己动手实现Web框架, java10 required!
 
 Features & Disadvantages
 --
@@ -114,5 +114,5 @@ http://localhost:8080/kids/user/hello
 
 Discussion
 --
-关注公众号「码洞」，我们一起来聊聊这个框架
+
 
